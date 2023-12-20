@@ -4,7 +4,7 @@
 
 ## Project Overview:
 
-The project entails updating an existing database by scraping data from various sports event websites. The goal is to collect information about sports competitions for 2024 in swimming, triathlon, and running categories. The extracted data will include event dates, distances, and difficulty levels, categorized as light, medium, long, or ultra.
+The project entails updating an existing database by scraping data from various sports event websites. The goal is to collect information about sports competitions for 2024 in swimming, triathlon, and running categories. The extracted data will include event dates, distances, and difficulty levels, categorized as light, medium, long, or ultra and Compiling the extracted data into a structured table in Notion.
 
 
 
@@ -23,7 +23,6 @@ Effective communication via Telegram for real-time discussions and updates.
 Verified and updated dataset of sports competitions for 2024.
 Structured table in Notion showcasing events categorized by sport, date, distance, and difficulty level.
 Documentation detailing any modifications made to the scraping code and the verification process.
-Interested individuals can reach out here for further discussion or clarification.
 
 
 
