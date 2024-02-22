@@ -1,4 +1,4 @@
-# Web-scraping-and-update-sport-database-on-Python-
+# Web-scraping-and-update-Notion-sport-database-on-Python-
 
 ## Project Title: Sports Calendar Update via Web Scraping
 
