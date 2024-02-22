@@ -33,6 +33,9 @@ Example image of the expected final result in Notion.
 ![Screenshot (102)](https://github.com/darshanns09/Web-scraping-and-update-sport-database-on-Python-/assets/145355404/86dfd512-badb-46e2-bbe0-54e4e7c84906)
 
 
+#### Please refer to the Notion calendar linked here. 
+
+https://product17.notion.site/694a704c54d3403d8cad82d4fe8361cf?v=c8756a9b24aa46f38361218710a4f7de&pvs=44&qid=
 
 
 
